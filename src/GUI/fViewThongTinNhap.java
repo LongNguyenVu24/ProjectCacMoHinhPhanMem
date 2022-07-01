@@ -10,10 +10,7 @@ import java.awt.Image;
 import java.awt.Toolkit;
 import javax.swing.ImageIcon;
 import java.lang.*;
-/**
- *
- * @author admin
- */
+
 public class fViewThongTinNhap extends javax.swing.JFrame {
 
     /**
