@@ -15,11 +15,6 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.ArrayList;
 
-
-/**
- *
- * @author longn
- */
 public class NhapKho {
 
     private static NhapKho instance;
