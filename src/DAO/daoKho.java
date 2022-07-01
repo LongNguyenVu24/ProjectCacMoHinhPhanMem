@@ -16,10 +16,6 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.ArrayList;
 
-/**
- *
- * @author longn
- */
 public class daoKho {
 
     private static daoKho instance;
