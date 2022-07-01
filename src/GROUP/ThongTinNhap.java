@@ -5,10 +5,6 @@
  */
 package GROUP;
 
-/**
- *
- * @author admin
- */
 public class ThongTinNhap {
     // phieu nhap
     public int id_phieu_nhap;
