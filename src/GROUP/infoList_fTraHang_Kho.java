@@ -7,7 +7,7 @@ package GROUP;
 
 /**
  *
- * @author admin
+ * 
  */
 public class infoList_fTraHang_Kho {
     public int id_lo_sp;
