@@ -5,10 +5,6 @@
  */
 package GROUP;
 
-/**
- *
- * @author Dinh Tien
- */
 public class ThongTinXuat {
     public int id_xuat_kho;
     public String thoi_gian_xuat;
