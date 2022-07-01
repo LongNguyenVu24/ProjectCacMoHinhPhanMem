@@ -5,10 +5,6 @@
  */
 package GROUP;
 
-/**
- *
- * @author Dinh Tien
- */
 public class ThongTinTon {
 
     public String ten_sp;
