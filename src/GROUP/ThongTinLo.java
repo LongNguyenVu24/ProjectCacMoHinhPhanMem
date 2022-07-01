@@ -5,10 +5,6 @@
  */
 package GROUP;
 
-/**
- *
- * @author Dinh Tien
- */
 public class ThongTinLo {
     //Lô
     public int id_lo_sp;
