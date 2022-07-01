@@ -7,7 +7,7 @@ package GROUP;
 
 /**
  *
- * @author admin
+ *
  */
 public class LoaiSanPham_jTreeChart {
     public String ten_loai_sp;
