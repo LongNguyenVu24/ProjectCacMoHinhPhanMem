@@ -17,12 +17,6 @@ import java.util.ArrayList;
 import javax.swing.JOptionPane;
 import javax.swing.JTable;
 
-/**
- *
- * @author longn
- * 
- * 
- */
 public class daoXuatKho {
 
     private static daoXuatKho instance;
