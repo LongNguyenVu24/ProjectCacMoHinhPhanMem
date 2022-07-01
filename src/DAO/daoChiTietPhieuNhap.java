@@ -12,7 +12,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author admin
+ * 
  */
 public class daoChiTietPhieuNhap {
 
@@ -52,7 +52,7 @@ public class daoChiTietPhieuNhap {
         return result;
     }
 
-    //Thêm chi tiết phiếu nhập mới
+    
     public boolean insertChiTietPhieuNhap(int so_tien_lo, int so_luong_lo, int id_nguon_cc, int id_phieu_nhap) {
         String query = "INSERT INTO `chi_tiet_phieu_nhap`(`so_tien_lo`, `so_luong_lo`, `id_nguon_cc`, `id_phieu_nhap`) VALUES ('" + so_tien_lo + "','" + so_luong_lo + "','" + id_nguon_cc + "','" + id_phieu_nhap + "')";
         ArrayList<Object> arr = new ArrayList<>();
